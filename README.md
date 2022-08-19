@@ -1,0 +1,4 @@
+# Projeto de pesquisa 2021 - Criação de um mapa mental para o gerenciamento de um software
+Este projeto tem a intenção principal de criar uma metodologia fluída e sistemática para orientar e nortear grupos e/ou gerentes de softwares em suas determinadas propostas, com o intuito de facilitar o entendimento de cada fase e apresentar fluxos sequenciais de trabalho e gestão, seja ela de pessoas ou recursos. Aqui neste projeto será testada diversas formas de abordagens de gerenciamento e também de mapas mentais, visando alcançar a forma mais eficaz de apresentar todos os métodos e etapas que o desenvolvimento de um software deve conter. O projeto ainda contará com discussões sobre a natureza do conceito de gerenciamento de software que pode atrair os interesses de pesquisadores dispostos a trabalhar nessa área.
+
+link da apresentação do projeto: https://youtu.be/mLNlvEM31HA
